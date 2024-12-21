@@ -1,2 +1,3 @@
-#EXTM3U
-#EXTINF:0,https://id.strmrdrfrosg.click/index.php?id=601
+﻿#EXTM3U
+#EXTINF:-1 tvg-name="Meclis TV"tvg-id="TBMM"tvg-logo="https://seeklogo.com/images/T/tbmm-logo-9FB0F2818C-seeklogo.com.png"group-title="TRT":http-referrer="":http-user-agent="",Meclis TV
+https://id.strmrdrfrosg.click/index.php?id=601
